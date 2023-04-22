@@ -1,0 +1,10 @@
+{
+  "rpc_url": "https://arbitrum.blockpi.network/v1/rpc/public",
+  "claim_contract_address": "0x21a2f6A0d2156bB069b3062e249072cec2dA9320",
+  "token_contract_address": "0x1D987200dF3B744CFa9C14f713F5334CB4Bc4D5D",
+  "transfer_to_address": "",
+  "gas_limit_claim": "auto",
+  "gwei_claim": "auto",
+  "gas_limit_transfer": "auto",
+  "gwei_transfer": "auto"
+}
